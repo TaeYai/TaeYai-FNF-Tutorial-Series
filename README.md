@@ -6,9 +6,9 @@ Art by
 * OverNai 
 - https://twitter.com/OVERNAI_x
 ## Program I Used
-Psych Engine - https://github.com/ShadowMario/FNF-PsychEngine
-Visual Studio Code - https://code.visualstudio.com/?wt.mc_id=vscom_downloads
-Adobe - Find it Yourself
+* Psych Engine - https://github.com/ShadowMario/FNF-PsychEngine
+* Visual Studio Code - https://code.visualstudio.com/?wt.mc_id=vscom_downloads
+* Adobe - Find it Yourself
 
 ## FOLLOW ME ON SOCIAL MEDIA
 * TWITTER https://twitter.com/Taeyai_
