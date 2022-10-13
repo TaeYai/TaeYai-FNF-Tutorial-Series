@@ -12,7 +12,6 @@ Repo Stuff From Youtube Video - TaeYai Tutorial Series
 * Adobe - Find it Yourself
 
 ## FOLLOW ME ON SOCIAL MEDIA
-* TWITTER https://twitter.com/Taeyai_
 * YOUTUBE https://www.youtube.com/c/TaeYai/featured
 * TIKTOK https://www.tiktok.com/@yaitaereal
 
