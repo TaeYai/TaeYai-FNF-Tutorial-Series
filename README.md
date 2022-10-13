@@ -1,8 +1,9 @@
 # TaeYai-Tutorial-Series
 Repo Stuff From Youtube Video - TaeYai Tutorial Series
 
-TaeYai Tutorial Series Playlist: https://www.youtube.com/playlist?list=PLTJ57PKTd7jscX7hbSErJtq-qbl_yox5f
-Art by 
+##TaeYai Tutorial Series Playlist: 
+- https://www.youtube.com/playlist?list=PLTJ57PKTd7jscX7hbSErJtq-qbl_yox5f
+##Art by 
 * OverNai 
 - https://twitter.com/OVERNAI_x
 ## Program I Used
