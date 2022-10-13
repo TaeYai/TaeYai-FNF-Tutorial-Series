@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bird.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bird0000" x="5" y="5" width="479" height="122" frameX="0" frameY="-136" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0001" x="5" y="5" width="479" height="122" frameX="0" frameY="-136" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0002" x="489" y="5" width="442" height="171" frameX="-19" frameY="-87" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0003" x="489" y="5" width="442" height="171" frameX="-19" frameY="-87" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0004" x="5" y="181" width="382" height="198" frameX="-49" frameY="-60" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0005" x="5" y="181" width="382" height="198" frameX="-49" frameY="-60" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0006" x="392" y="181" width="349" height="232" frameX="-65" frameY="-26" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0007" x="392" y="181" width="349" height="232" frameX="-65" frameY="-26" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0008" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0009" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0010" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0011" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0012" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+	<SubTexture name="bird0013" x="5" y="418" width="333" height="258" frameX="-73" frameY="0" frameWidth="479" frameHeight="258"/>
+</TextureAtlas>
